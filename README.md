@@ -11,12 +11,8 @@
 
 Crie o corpo de uma página sobre lugares turísticos na Europa. Nela, você deve focar apenas no conteúdo da página, adicionando textos, cards, imagens, entre outros:
 
-<p align="center">
-  <figure>
-<img src="C:\Users\Acer\Pictures\Screenshots\Captura de tela 2023-10-04 091741.png" height="300" width="500">
-  </figure>
-   <figcaption>Figura mostra Trecho Codigo.</figcaption>
-</p>
+![](https://github.com/1985Valdemar/Python_lista/assets/114195427/63134d0a-3fa1-4570-8210-6221325c1bd7)
+<p> Trecho Mostrar Codigo</p>
 
 <br>
 
