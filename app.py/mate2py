@@ -1,0 +1,35 @@
+#xemplo 1: Operadores Aritméticos em Python
+#https://www.programiz.com/python-programming/operators
+a = 7
+b = 2
+
+# addition
+print ('Sum: ', a + b)  
+
+# subtraction
+print ('Subtraction: ', a - b)   
+
+# multiplication
+print ('Multiplication: ', a * b)  
+
+# division
+print ('Division: ', a / b) 
+
+# floor division
+print ('Floor Division: ', a // b)
+
+# modulo
+print ('Modulo: ', a % b)  
+
+# a to the power b
+print ('Power: ', a ** b)   
+
+
+mon_sales = 121
+tues_sales = 105
+wed_sales = 110
+thurs_sales = 98
+fri_sales = 95
+
+total =(mon_sales + tues_sales + wed_sales + thurs_sales + fri_sales)
+print("This week's total sales:",total)
