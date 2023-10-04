@@ -1,6 +1,6 @@
 <h1 align="center"> Python 💻 </h1>
 
-<p align="center"> <a href="https://prozeducacao.com.br/" target="_blank">DIO</a> - Talento Python - <a href="https://aws.amazon.com/pt/" target="_blank">Skill</a> - <a href="https://www.nexaresources.com/" target="_blank">w3schools</a> </p>
+<p align="center"> <a href="https://web.dio.me/home" target="_blank">DIO</a> - Talento Python - <a href="https://www.linkedin.com/in/valdemar-teider-5336b394/" target="_blank">Skill</a> - <a href="https://www.w3schools.com/" target="_blank">w3schools</a> </p>
 
 <p align="center">
 <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp|&nbsp;&nbsp;&nbsp;
