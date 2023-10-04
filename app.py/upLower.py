@@ -177,9 +177,27 @@ fruits14 = ["apple", "banana", "cherry"]
 for x in fruits14:
   print(x)
   
-#
+#LOOP PULAR ITEM 
 fruits15 = ["apple", "banana", "cherry"]
 for x in fruits15:
   if x == "banana":
     continue
   print(x)
+  
+#LOOP PERCORRER 6X RANGE
+for x in range(6):
+  print(x)
+  
+#FUNCAO my_function TEM CHAMAR PARA EXECUTAR
+def my_function():  
+  print("Hello from a function")
+  
+my_function()
+
+#USANDO OBJETO P1 PARA IMPRIMIR
+class MyClass:
+  x = 1500
+p1 = MyClass()
+print(p1.x)
+
+
