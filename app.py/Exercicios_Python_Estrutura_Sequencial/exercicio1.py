@@ -34,6 +34,12 @@ print(f"Valor da area do quadrado é ",(N9*N9))"""
 
 #8 Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês.
 # Calcule e mostre o total do seu salário no referido mês.
-n10 = float(input("Digite Valor sua Hora "))
+"""n10 = float(input("Digite Valor sua Hora "))
 n11 = float(input("Quantas horas trabalhou mes "))
-print("Seu Salario será de ",(n10*n11)*0.60,"\n Seu Vale será ",(n10*n11)*0.40)
+print("Seu Salario será de ",(n10*n11)*0.60,"\n Seu Vale será ",(n10*n11)*0.40)"""
+
+
+
+
+
+
