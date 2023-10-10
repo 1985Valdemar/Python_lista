@@ -9,13 +9,17 @@ m2 = float(input("Digite m3 Por Gentileza "))
 tinta = m2*1
 print(tinta,"m2")
 #lata 18L 80$ quantidade latas
+#Lata 3.6L 25$
 lata = 18*6
 lata_pequena = 3.6*6
 print(lata,"m2 Uma lata 18L pinta")
 print(lata_pequena,"m2 uma lata 3.6L Pinta")
 print()
+#Quantidade latas tintas
 quantia_lata = int( m2 / lata)
 quantia_lata_pequena = int(m2 / lata_pequena)
+
+#Condição para arrendondar valor devido lata de 3.6L ou 18L
 if quantia_lata_pequena != int:
     quantia_lata_pequena += 1
 
@@ -32,13 +36,3 @@ total = quantia_lata*80
 total_pequena = quantia_lata_pequena*25
 print("R$ ",total,"Lata 18L")
 print("R$ ",total_pequena,"Lata 3.6L")
-
-
-#Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
-
-#comprar apenas latas de 18 litros;
-
-#comprar apenas galões de 3,6 litros;
-
-#misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e
-# sempre arredonde os valores para cima, isto é, considere latas cheias.
