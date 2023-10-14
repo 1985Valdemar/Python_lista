@@ -9,7 +9,7 @@
 
 # Sobre
 
-Crie o corpo de uma página sobre lugares turísticos na Europa. Nela, você deve focar apenas no conteúdo da página, adicionando textos, cards, imagens, entre outros:
+Lista de exerciocio para foratalecer o conhecimento; https://wiki.python.org.br/ListaDeExercicios
 
 ![](https://github.com/1985Valdemar/Python_lista/assets/114195427/63134d0a-3fa1-4570-8210-6221325c1bd7)
 <p> Trecho Mostrar Codigo</p>
